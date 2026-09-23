@@ -1,4 +1,4 @@
-# CLAIR SENSE — Lunar Image Registration (SIH26166)
+# MEMORAX1360 — Lunar Image Registration (SIH26166)
 
 Dual-matcher pipeline for finding sub-pixel, cross-sensor correspondence between Chandrayaan-2 optical imagery (OHRC / TMC-2 / IIRS) and lunar reference imagery (LRO NAC / SELENE), built for **SIH26166 (ISRO)**.
 
