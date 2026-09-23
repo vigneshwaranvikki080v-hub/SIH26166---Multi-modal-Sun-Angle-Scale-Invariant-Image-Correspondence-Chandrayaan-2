@@ -5,7 +5,7 @@ Dual-matcher pipeline for finding sub-pixel, cross-sensor correspondence between
 ## 🌐 Live Demo
 
 **Try the Interactive Registration Studio:**  
-https://claude.ai/artifact/35592VEHQzen7191mQDikh
+https://vigneshwaranvikki080v-hub.github.io/SIH26166---Multi-modal-Sun-Angle-Scale-Invariant-Image-Correspondence-Chandrayaan-2/
 
 Explore real-time tie-point visualization, wipe slider comparison, and registration metrics.
 
