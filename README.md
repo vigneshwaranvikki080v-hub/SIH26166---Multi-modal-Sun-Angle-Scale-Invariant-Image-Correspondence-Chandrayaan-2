@@ -5,7 +5,7 @@ Dual-matcher pipeline for finding sub-pixel, cross-sensor correspondence between
 ## 🌐 Live Demo
 
 **Try the Interactive Registration Studio:**  
-🔗 [**🚀 Launch Interactive Demo**](https://claude.ai/artifact/Xe7TcKQxq2VxzX68HVwhio)
+🔗 file:///C:/Users/Vignesh%20Waran%20J/Downloads/index.html
 
 Explore real-time tie-point visualization, wipe slider comparison, and registration metrics.
 
